@@ -1,0 +1,51 @@
+study_id,report_text,label
+2001,Cardiac silhouette is widened.,cardiomegaly
+2002,There is prominent cardiomegaly.,cardiomegaly
+2003,There is prominent cardiomegaly.,cardiomegaly
+2004,Cardiac silhouette is widened.,cardiomegaly
+2005,The heart is enlarged.,cardiomegaly
+2006,There is prominent cardiomegaly.,cardiomegaly
+2007,Signs of cardiomegaly are present.,cardiomegaly
+2008,Signs of cardiomegaly are present.,cardiomegaly
+2009,Cardiac silhouette is widened.,cardiomegaly
+2010,The cardiac contour is abnormal.,cardiomegaly
+2011,There is prominent cardiomegaly.,cardiomegaly
+2012,Signs of cardiomegaly are present.,cardiomegaly
+2013,Pulmonary vessels appear congested.,edema
+2014,Mild pulmonary edema is suspected.,edema
+2015,Mild pulmonary edema is suspected.,edema
+2016,Mild pulmonary edema is suspected.,edema
+2017,Mild pulmonary edema is suspected.,edema
+2018,Evidence of early pulmonary edema.,edema
+2019,Mild pulmonary edema is suspected.,edema
+2020,There are signs of interstitial edema.,edema
+2021,There are signs of interstitial edema.,edema
+2022,Alveolar opacities indicate edema.,edema
+2023,There are signs of interstitial edema.,edema
+2024,Evidence of early pulmonary edema.,edema
+2025,Pleural effusion with lung compression.,effusion
+2026,Bilateral pleural effusions are present.,effusion
+2027,Pleural effusion with lung compression.,effusion
+2028,Bilateral pleural effusions are present.,effusion
+2029,Mild fluid accumulation in the pleura.,effusion
+2030,Mild fluid accumulation in the pleura.,effusion
+2031,There is a left pleural effusion.,effusion
+2032,Pleural effusion with lung compression.,effusion
+2033,Right-sided pleural effusion is noted.,effusion
+2034,Right-sided pleural effusion is noted.,effusion
+2035,Pleural effusion with lung compression.,effusion
+2036,Right-sided pleural effusion is noted.,effusion
+2037,No acute cardiopulmonary findings.,no finding
+2038,Unremarkable chest X-ray.,no finding
+2039,No acute cardiopulmonary findings.,no finding
+2040,Unremarkable chest X-ray.,no finding
+2041,The study shows no evidence of abnormality.,no finding
+2042,Lungs are clear. Heart size is normal.,no finding
+2043,No acute cardiopulmonary findings.,no finding
+2044,Unremarkable chest X-ray.,no finding
+2045,No acute cardiopulmonary findings.,no finding
+2046,Lungs are clear. Heart size is normal.,no finding
+2047,Unremarkable chest X-ray.,no finding
+2048,The study shows no evidence of abnormality.,no finding
+2049,Cardiomegaly present with bilateral pleural effusion.,"cardiomegaly, effusion"
+2050,Pulmonary edema with enlarged heart size.,"cardiomegaly, edema"
